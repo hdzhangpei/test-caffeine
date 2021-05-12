@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 /**
  * @author zhangpei
  * @description: TODO
- * @company 中国区销售一部
  * @created 2021/5/12
  */
 @Service

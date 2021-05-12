@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4fdc8ab-173f-4c81-866e-875784af85bc" name="Default Changelist" comment="" />
+    <list default="true" id="d4fdc8ab-173f-4c81-866e-875784af85bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhangpei/testcaffeine/provider/TestProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhangpei/testcaffeine/provider/TestProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhangpei/testcaffeine/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhangpei/testcaffeine/service/TestService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +30,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="JUnit.TestCaffeineApplicationTests">
@@ -134,6 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620737874235</updated>
       <workItem from="1620737875536" duration="9877000" />
+      <workItem from="1620800757988" duration="298000" />
     </task>
     <servers />
   </component>
